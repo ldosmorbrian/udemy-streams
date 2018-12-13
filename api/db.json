@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "ffff",
+      "description": "gggg",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "blah blah other",
+      "id": 2
+    },
+    {
+      "title": "Awesome",
+      "description": "Sauce",
+      "id": 3
+    },
+    {
+      "title": "createdbyme",
+      "description": "super cool",
+      "userId": "105664852821091181370",
+      "id": 4
+    },
+    {
+      "title": "Core i7",
+      "description": "yyyyyy",
+      "id": 5
+    },
+    {
+      "title": "Core i7",
+      "description": "hey it works",
+      "userId": "105664852821091181370",
+      "id": 6
+    },
+    {
+      "title": "wwwww",
+      "description": "qqqqq",
+      "id": 7
+    }
+  ]
+}
